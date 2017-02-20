@@ -1,0 +1,14 @@
+{
+  "name" : "EEBS",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "displayName" : "Extra Enhanced Body Shape",
+	"author" : "Word on the Wind",
+	"thanks" : {
+	  "CaptainMadoc" : [ "Spritework" ]
+	},
+	"description" : "A bigger boost to the bust.",
+	"version" : "0.0004"
+  }
+}

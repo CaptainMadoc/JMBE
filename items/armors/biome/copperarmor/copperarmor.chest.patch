@@ -1,0 +1,7 @@
+[
+{
+  "op" : "replace",
+  "path" : "/femaleFrames",
+  "value" : { "body" : "chestf.png", "backSleeve" : "bsleeve.png", "frontSleeve" : "fsleeve.png" }
+}
+]
