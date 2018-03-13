@@ -1,7 +1,0 @@
-[
-{
-  "op" : "replace",
-  "path" : "/femaleFrames",
-  "value" : { "femaleFrames" : "pantsf.png" }
-}
-]

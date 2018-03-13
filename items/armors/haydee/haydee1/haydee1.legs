@@ -11,7 +11,7 @@
   "tooltipKind" : "armor",
 
   "maleFrames" : "pants.png",
-  "femaleFrames" : "pants.png",
+  "femaleFrames" : "pantsf.png",
 
   "colorOptions" : [
     // BROWN
