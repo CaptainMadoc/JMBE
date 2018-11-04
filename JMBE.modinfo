@@ -1,0 +1,11 @@
+{
+  "name" : "JMBE",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "displayName" : "Joshua Madoc's Body Expansion",
+	"author" : "Joshua Madoc",
+	"description" : "Big surprises!",
+	"version" : "Alpha 2"
+  }
+}
